@@ -1,0 +1,26 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore large data and output files
+data/*.csv
+data/*.xlsx
+!data/cleaned_ev_area_data.csv
+!data/top_growth_tracts.csv
+
+# Ignore model binaries (if not needed)
+models/*.joblib
+
+# Ignore OS and environment files
+.DS_Store
+Thumbs.db
+.env
+
+# Ignore temporary or log files
+*.log
+*.tmp
