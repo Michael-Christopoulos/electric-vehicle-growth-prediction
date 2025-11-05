@@ -88,5 +88,11 @@ This project is released under the MIT License — feel free to use and adapt wi
 
 ---
 
+## 📊 Dataset Source
+
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/), titled **“Electric Vehicle Population Data”**, which aggregates VIN-level electric vehicle registrations and attributes for analysis.
+
+---
+
 **Author:** Michael Christopoulos 
 **Project Goal:** Identify U.S. regions most likely to grow in EV adoption using machine learning.
