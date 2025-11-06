@@ -24,3 +24,4 @@ Thumbs.db
 # Ignore temporary or log files
 *.log
 *.tmp
+anaconda_projects/
